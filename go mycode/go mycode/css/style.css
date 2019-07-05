@@ -1,0 +1,86 @@
+body{ 
+    background: Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+    Linear-gradient(127deg, black, black 70.71%),
+    
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+ }
+ h1{
+    color: white;
+}
+.Name{ 
+    color: white;
+ }
+ .Track{ 
+    color: white;
+ }
+ .Email_adress{ 
+    color: white;
+ }
+ .Phone_number{ 
+    color: white;
+ }
+ ul li { 
+display: inline;
+}
+h1{ background-image: url("https://pbs.twimg.com/media/D46e5_WW0AEkO3h.jpg"); 
+   height: 500px;
+   width: 1250px
+}
+h2{ color: white
+}
+h3{ color: white
+}
+li{ 
+   margin-left:50px; 
+   font-size: 30px
+}
+.jquery{
+   background-image:url("https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel.png");
+   height: 160px;
+   width: 20%;
+   background-repeat: no-repeat;
+   display: inline-block;
+}
+
+.jquery2{
+   background-image:url("https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel2.png");
+   height: 160px;
+   width: 20%;
+   background-repeat: no-repeat;
+   display: inline-block;
+}
+
+.jquery3{
+   background-image:url("https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel5.png");
+   height: 160px;
+   width: 20%;
+   background-repeat: no-repeat;
+   display: inline-block;
+}
+/*
+.jquery:hover{
+   background-color: black;
+   height: 160px;
+   width: 21%;
+   opacity: 0.5;
+
+}*/
+
+
+/*
+.jquery2:hover{
+   background-color: black;
+   height: 160px;
+   width: 21%;
+   opacity: 0.5;
+}*/
+
+
+/*
+.jquery3:hover{
+   background-color: black;
+   height: 160px;
+   width: 21%;
+   opacity: 0.5; }
+*/
